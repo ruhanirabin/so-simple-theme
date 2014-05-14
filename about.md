@@ -1,33 +1,35 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: About WP-Optimize
+tags: [wordpress, plugin, optimize, sql, php, responsive]
+modified: 2014-05-12
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+**WP-Optimize** is an extensive WordPress database cleanup and optimization tool. It doesn't require PhpMyAdmin to clean and optimize your database tables. 
 
-## So Simple Theme is all about:
+One million downloads can't be wrong. It is a powerful utility and it should be handle with care.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Please show your support for this plugin by giving it [a rating](http://wordpress.org/support/view/plugin-reviews/wp-optimize?rate=5#postform) :)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+###MAJOR FEATURES:
 
-[^1]: Example: *domain.com/category-name/post-title*
+*   Removal of stale post revisions
+*   Removal of stale unapproved and spam comments
+*   Removal of trshed comments
+*   Mobile device friendly, now you can optimize your site on the go
+*   Removal of all trackbacks and pingbacks
+*   Cleaning up auto draft posts
+*   Removal of transient options
+*   Clear out the post trash
+*   Automatic cleanup of all the integrated options (also uses retention if enabled)
+*   Ability to keep selected number of weeks data when cleaning up
+*   Option to add or remove link on wp admin bar.
+*   Enable/Disable weekly schedules of optimization
+*   Apply native WordPress MySql optimize commands on your database tables without phpMyAdmin or any manual query.
+*   Display Database table statistics. Shows how much space can be optimized and how much space has been cleared.
+*   Enabled for Administrators only.

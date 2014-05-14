@@ -15,7 +15,6 @@ There are a lot of stuff that has been re-coded in this release.
 ### Most notable changes are:
 
 1. Persistent settings for main screen: Allows user to save the checkbox selection on the main screen so next time they do not need to select the items they use frequently. Red marked items could not be saved. ![Image]({{ site.url }}/images/2014-05-12-1.png)
-{: .pull-right}: 
 
 2. Credits page has been re-organized with proper information and links.
 
