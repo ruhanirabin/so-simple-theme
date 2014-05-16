@@ -8,7 +8,7 @@ image:
   credit: 
   creditlink: 
 comments: 
-share: 
+share: true
 ---
 There are a lot of stuff that has been re-coded in this release. 
 

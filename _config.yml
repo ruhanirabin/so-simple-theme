@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              
+url: http://ruhanirabin.github.io/WP-Optimize/
 
 # Owner/author information
 owner:
@@ -36,6 +36,8 @@ links:
     url: /
   - title: About
     url: /about/
+  - title: Translations
+    url: /translations/
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
